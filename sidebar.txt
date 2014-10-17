@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pdc:home|Door43 (pdc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pdc|d43-pdc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pdc/archive/master.zip|d43-pdc.zip]]
+
+**Recent Changes**
+{{changes>ns = pdc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pdc|Ethnologue data]]
+
